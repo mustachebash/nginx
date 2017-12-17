@@ -28,11 +28,3 @@ trim_trailing_whitespace = true
 # Denotes whether file should end with a newline
 # Possible values - true, false
 insert_final_newline = true
-
-
-[*.{yaml,yml,yml.sh}]
-indent_style = space
-indent_size = 2
-
-[package.json]
-indent_size = 2
